@@ -22,7 +22,7 @@ verbose_name = {
 
 # Load model
 model_path = 'C:\\Users\\pc\\OneDrive\\Desktop\\diabetic detection using retinopathy\\model\\dr_model.h5'
-model = load_model('dr_model.h5')
+model = load_model(model_path)
 
 # State
 last_prediction = None
