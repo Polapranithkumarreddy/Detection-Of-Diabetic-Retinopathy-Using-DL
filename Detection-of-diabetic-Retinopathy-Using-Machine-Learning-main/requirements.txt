@@ -1,0 +1,7 @@
+flask
+tensorflow.keras
+numpy
+sklearn.metrics
+random
+logging
+os
