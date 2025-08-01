@@ -1,7 +1,4 @@
 flask
-tensorflow.keras
+tensorflow
 numpy
-sklearn.metrics
-random
-logging
-os
+scikit-learn
